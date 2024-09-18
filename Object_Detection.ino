@@ -1,4 +1,4 @@
-int sensorPin=0;
+int sensorPin=4;
 int buzzer=5;
 int sensorValue=0; 
 void setup() {
